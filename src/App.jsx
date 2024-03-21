@@ -1,5 +1,6 @@
 import "./App.css";
 import Reveal from "./components/AnimateReveal.jsx";
+import { Link } from "react-router-dom";
 
 function App() {
   const base_url = "http://djacmarg.github.io/digital-resume";
@@ -83,31 +84,31 @@ function App() {
           <div className="stacks">
             <div className="stack">
               <span>
-                <Link href="https://zurepay.com">Zurepay</Link>
+                <Link to="https://zurepay.com">Zurepay</Link>
               </span>
             </div>
             <div className="stack">
-              <Link href="https://systemar.org">Systemar</Link>
+              <Link to="https://systemar.org">Systemar</Link>
             </div>
             <div className="stack">
               <span>
-                <Link href="https://cocarehg.ca">Cocare Health Group</Link>
+                <Link to="https://cocarehg.ca">Cocare Health Group</Link>
               </span>
             </div>
 
             <div className="stack">
               <span>
-                <Link href="https://lsharbor.com">Life Serenity Harbor</Link>
+                <Link to="https://lsharbor.com">Life Serenity Harbor</Link>
               </span>
             </div>
             <div className="stack">
-              <Link href="https://vitcarellc.com">Vital Care</Link>
+              <Link to="https://vitcarellc.com">Vital Care</Link>
             </div>
             <div className="stack">
-              <Link href="https://www.lolbod.ca">Lolbod</Link>
+              <Link to="https://www.lolbod.ca">Lolbod</Link>
             </div>
             <div className="stack">
-              <Link href="https://afitinstitute.org">Afit Institute</Link>
+              <Link to="https://afitinstitute.org">Afit Institute</Link>
             </div>
           </div>
         </div>
