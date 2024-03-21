@@ -1,5 +1,5 @@
 import "./App.css";
-import Reveal from "./components/AnimateReveal";
+import Reveal from "./components/AnimateReveal.jsx";
 
 function App() {
   const base_url = "http://djacmarg.github.io/digital-resume";
