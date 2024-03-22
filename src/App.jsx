@@ -86,34 +86,51 @@ function App() {
             <div className="stacks">
               <div className="stack">
                 <span>
-                  <Link to="https://zurepay.com">Zurepay</Link>
+                  <Link to="https://zurepay.com" className="no-underline">
+                    Zurepay
+                  </Link>
                 </span>
               </div>
               <div className="stack">
-                <Link to="https://systemar.org">Systemar</Link>
+                <Link to="https://systemar.org" className="no-underline">
+                  Systemar
+                </Link>
               </div>
               <div className="stack">
                 <span>
-                  <Link to="https://cocarehg.ca">Cocare Health Group</Link>
+                  <Link to="https://cocarehg.ca" className="no-underline">
+                    Cocare Health Group
+                  </Link>
                 </span>
               </div>
 
               <div className="stack">
                 <span>
-                  <Link to="https://lsharbor.com">Life Serenity Harbor</Link>
+                  <Link to="https://lsharbor.com" className="no-underline">
+                    Life Serenity Harbor
+                  </Link>
                 </span>
               </div>
               <div className="stack">
-                <Link to="https://vitcarellc.com">Vital Care</Link>
+                <Link to="https://vitcarellc.com" className="no-underline">
+                  Vital Care
+                </Link>
               </div>
               <div className="stack">
-                <Link to="https://www.lolbod.ca">Lolbod</Link>
+                <Link to="https://www.lolbod.ca" className="no-underline">
+                  Lolbod
+                </Link>
               </div>
               <div className="stack">
-                <Link to="https://afitinstitute.org">Afit Institute</Link>
+                <Link to="https://afitinstitute.org" className="no-underline">
+                  Afit Institute
+                </Link>
               </div>
               <div className="stack">
-                <Link to="https://meridianconsult.co.za/">
+                <Link
+                  to="https://meridianconsult.co.za/"
+                  className="no-underline"
+                >
                   Meridian Consult
                 </Link>
               </div>

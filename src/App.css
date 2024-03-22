@@ -112,8 +112,12 @@ li a {
   border: solid 1px;
   border-radius: 7px;
   align-items: center;
+  text-decoration: none;
 }
-
+.no-underline {
+  text-decoration: none;
+  color: yellowgreen;
+}
 .social {
   display: flex;
   justify-content: space-between;
