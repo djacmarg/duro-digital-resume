@@ -112,6 +112,11 @@ function App() {
               <div className="stack">
                 <Link to="https://afitinstitute.org">Afit Institute</Link>
               </div>
+              <div className="stack">
+                <Link to="https://meridianconsult.co.za/">
+                  Meridian Consult
+                </Link>
+              </div>
             </div>
           </div>
         </Reveal>
