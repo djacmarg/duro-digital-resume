@@ -24,21 +24,22 @@ function App() {
             <Reveal>
               <h1>Durotoye Oyerinde</h1>
               <h3>Full Stack Engineer</h3>
+              <br />
             </Reveal>
             <Reveal>
               <>
                 Full-stack Engineer with 12+ years of experience. Have designed
                 and developed a wide range of web applications and database
                 management solutions for multiple clients. Have leveraged
-                expertise in technologies such as PHP, Laravel, CodeIgniter,
-                ReactJS, NextJS, NodeJS, MySQL, MongoDB, Redux, HTML, CSS,
-                TailwindCSS and JavaScript to deliver functional, reliable, and
-                efficient software solutions. Previous work includes developing
-                a payment gateway solution, an attendance management system, and
-                an all-in-one school administrative workflow automation
-                software. Have contributed to the growth and success of multiple
-                organizations and clients, delivering high-quality solutions
-                that meet their specific needs and requirements.
+                expertise in various technologies to deliver functional,
+                reliable, and efficient software solutions. <br />
+                <br />
+                Previous work includes developing a payment gateway solution, an
+                attendance management system, and an all-in-one school
+                administrative workflow automation software. Have contributed to
+                the growth and success of multiple organizations and clients,
+                delivering high-quality solutions that meet their specific needs
+                and requirements.
               </>
             </Reveal>
           </div>
