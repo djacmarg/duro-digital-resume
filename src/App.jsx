@@ -14,7 +14,7 @@ function App() {
         <div className="hero">
           <img
             className="profile--pic"
-            src="images/profile-img.JPG"
+            src="images/profile-img.jpg"
             alt="profile-img"
             width={100}
             height={100}
